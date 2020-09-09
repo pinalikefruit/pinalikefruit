@@ -1,7 +1,5 @@
 ### Hi community 👋
 
-<!--
-**pinajmr/pinajmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Soy Jose Pina, egresado de Ing. Industrial(2019) y Ing.Telecomunicaciones(2019). Actualmente en el desarrollo de proyectos como [TriMarket](https://trimarket.store) y [TriUnico](https://triunico.com), colaborando en las areas de SEO, Marketing, intersado en el area de Data Science.
 
@@ -13,7 +11,7 @@ Soy Jose Pina, egresado de Ing. Industrial(2019) y Ing.Telecomunicaciones(2019).
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+:unamused:
 ## Herramientas
 - Visual code 
 -Git
