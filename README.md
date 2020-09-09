@@ -1,7 +1,7 @@
 ### Hi community 👋
 
 
-I'm Jose :pineapple:, Industrial Engineer(2019):mortar_board:and Telecommunications Engineer(2019):mortar_board:. I like to travel :earth_asia: :airplane: Currently working in the development of projects such as [TriMarket](https://trimarket.store)<code><img height="20" src="https://trimarket.store/wp-content/uploads/2020/07/cropped-Logo-TriMarket-escogido-2_Mesa-de-trabajo-1-min.png"></code> y [TriUnico](https://triunico.com)<code><img height="20" src="https://triunico.com/wp-content/uploads/2020/04/icono-peque%C3%B1o_Mesa-de-trabajo-1.png"></code> , collaborating in the areas of SEO, Marketing, Project Manager, logistics.
+I'm Jose :pineapple:, Industrial Engineer(2019):mortar_board:and Telecommunications Engineer(2019):mortar_board:. I like to travel :earth_asia: :airplane: Currently working in the development of projects such as [TriMarket](https://trimarket.store)<code><img height="20" src="https://trimarket.store/wp-content/uploads/2020/07/cropped-Logo-TriMarket-escogido-2_Mesa-de-trabajo-1-min.png" href= "https://trimarket.store"></code> y [TriUnico](https://triunico.com)<code><img height="20" src="https://triunico.com/wp-content/uploads/2020/04/icono-peque%C3%B1o_Mesa-de-trabajo-1.png"></code> , collaborating in the areas of SEO, Marketing, Project Manager, logistics.
 
 - 🔭 I’m currently working on data extraction, ETL, web scraping, data analysis.
 - 🌱 I’m currently learning Machine learning, deep learning, Natural Language Processing, AWS, Amazon redshift, Spark, TensorFlow.js, scikit-learn, Keras.
@@ -12,7 +12,7 @@ I'm Jose :pineapple:, Industrial Engineer(2019):mortar_board:and Telecommunicati
 <code><img height="30" src="https://www.muycomputer.com/wp-content/uploads/2013/08/Windows8.jpeg"></code>
 
 ###### Environment and tools
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
+<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" ></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png"></code>
 <code><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
@@ -44,9 +44,11 @@ I'm Jose :pineapple:, Industrial Engineer(2019):mortar_board:and Telecommunicati
 <code><img height="30" src="https://bit.ly/3k21KpX"></code>
 
 ##### Contact
-- 📱[Twitter](https://twitter.com/pinajmr)
-- 👤[Linkedin](https://www.linkedin.com/in/pinajmr/)
-- :e-mail:[Email](pinajoma0@gmail.com)
+- <code><img height="30" src="https://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s1600/Twitter+logo+2012.png"></code>[Twitter](https://twitter.com/pinajmr)
+- <code><img height="20" src="https://www.soydemarketing.com/wp-content/uploads/2015/12/linkedin-logo.png"></code>[Linkedin](https://www.linkedin.com/in/pinajmr/)
+- <code><img height="30" src="https://lamanzanamordida.net/app/uploads-lamanzanamordida.net/2018/04/1Jj-Xzp0sIkUg23HOqzZF4w.png"></code>:e-mail:[Email](pinajoma0@gmail.com)
+
+
 
 ##### Ventures
 - TriUnico
