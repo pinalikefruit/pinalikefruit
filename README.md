@@ -46,7 +46,7 @@ I'm Jose :pineapple: Yes, like fruit but in Spanish, Industrial Engineer(2019):m
 ##### Contact
 - <code><img height="20" src="https://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s1600/Twitter+logo+2012.png"></code>[Twitter](https://twitter.com/pinajmr)
 - <code><img height="20" src="https://www.soydemarketing.com/wp-content/uploads/2015/12/linkedin-logo.png"></code>[Linkedin](https://www.linkedin.com/in/pinajmr/)
-- <code><img height="20" src="https://lamanzanamordida.net/app/uploads-lamanzanamordida.net/2018/04/1Jj-Xzp0sIkUg23HOqzZF4w.png"></code>[Email](pinajoma0@gmail.com)
+- <code><img height="20" src="https://lamanzanamordida.net/app/uploads-lamanzanamordida.net/2018/04/1Jj-Xzp0sIkUg23HOqzZF4w.png"> <a href="pinajoma0@gmail.com">Email</a></code>
 
 
 
