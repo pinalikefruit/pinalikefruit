@@ -11,14 +11,8 @@ Soy Jose :pineapple:, Ing. Industrial(2019):mortar_board: y Ing.Telecomunicacion
 
 #### Herramientas
 <code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AVisual_Studio_Code_1.35_icon.svg&psig=AOvVaw1cdAdzG-qcrzD6Wf_72FhA&ust=1599752635996000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICOwaS13OsCFQAAAAAdAAAAABAD"></code>
-<code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fgit&psig=AOvVaw3jkhTWZyZeSa5tcJhZvtQF&ust=1599752770710000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjW49C13OsCFQAAAAAdAAAAABAD"></code>
-<code><img height="30" src=""></code>
-<code><img height="30" src=""></code>
-<code><img height="30" src=""></code>
-<code><img height="30" src=""></code>
-<code><img height="30" src=""></code>
-<code><img height="30" src=""></code>
-<code><img height="30" src=""></code>
+<code><img height="30" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fgithub.com%2Fgit&psig=AOvVaw3jkhTWZyZeSa5tcJhZvtQF&ust=1599752770710000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjW49C13OsCFQAAAAAdAAAAABAD"></code>
+
 - Visual code 
 -Git
 -Linux
