@@ -1,10 +1,10 @@
 ### Hi community 👋
 
 
-I'm Jose :pineapple: Yes, like fruit but in Spanish, Industrial Engineer(2019):mortar_board:and Telecommunications Engineer(2019):mortar_board:. I like to travel :earth_asia: :airplane: Currently working in the development of projects such as [TriMarket](https://trimarket.store)<code><img height="20" src="https://trimarket.store/wp-content/uploads/2020/07/cropped-Logo-TriMarket-escogido-2_Mesa-de-trabajo-1-min.png" ></code> y [TriUnico](https://triunico.com)<code><img height="20" src="https://triunico.com/wp-content/uploads/2020/04/icono-peque%C3%B1o_Mesa-de-trabajo-1.png"></code> , collaborating in the areas of SEO, Marketing, Project Manager, logistics.
+I'm :pineapple: Yes, like fruit but in Spanish, Industrial Engineer(2019):mortar_board:and Telecommunications Engineer(2019):mortar_board:. I like to travel :earth_asia: :airplane: Currently working in the development of projects such as [Summer](https://summer.so/)<code><img height ="20" src ="https://summer.so/wp-content/uploads/2020/11/logo_summer.png"></code> , [TriMarket](https://trimarket.store)<code><img height="20" src="https://trimarket.store/wp-content/uploads/2020/07/cropped-Logo-TriMarket-escogido-2_Mesa-de-trabajo-1-min.png" ></code> y [TriUnico](https://triunico.com)<code><img height="20" src="https://triunico.com/wp-content/uploads/2020/04/icono-peque%C3%B1o_Mesa-de-trabajo-1.png"></code> , collaborating in the areas of SEO, Marketing, Project Manager, logistics.
 
 - 🔭 I’m currently working on data extraction, ETL, web scraping, data analysis.
-- 🌱 I’m currently learning Machine learning, deep learning, Natural Language Processing, AWS, Amazon redshift, Spark, TensorFlow.js, scikit-learn, Keras.
+- 🌱 I’m currently learning Solidity, Smart Contracts, DeFi, Blockchain,DApp, Truffle, web3.js , react.js.
 
 #### Skill
 ###### SO
@@ -23,8 +23,8 @@ I'm Jose :pineapple: Yes, like fruit but in Spanish, Industrial Engineer(2019):m
 ###### Languages
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>
 <code><img height="30" src="https://s1.eestatic.com/2017/07/19/actualidad/Actualidad_232491174_129964691_698x400.jpg"></code>
-<code><img height="30" src="https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg"></code>
-
+<code><img height="30" src="https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg"</code>
+<code><img height="30" src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png"></code>
 ###### Framework
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1280px-NumPy_logo.svg.png"></code>
@@ -60,6 +60,8 @@ I'm Jose :pineapple: Yes, like fruit but in Spanish, Industrial Engineer(2019):m
   - [Fanpage TriMarket](https://www.facebook.com/trimarket.store)
   - [Instagram](https://www.instagram.com/trimarket_/)
   - [Twitter](https://twitter.com/trimarket_)
-
+- <code><img height="20" src="https://summer.so/wp-content/uploads/2020/11/logo_summer.png" ></code>Summer
+  - [Fanpage TriMarket](https://www.facebook.com/TheSummerApp/)
+  - [Instagram](https://www.instagram.com/app_summer/)
 
 >"Focus"
