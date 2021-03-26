@@ -1,7 +1,7 @@
 ### Hi community 👋
 
 
-I'm :pineapple: Yes, like fruit but in Spanish, Industrial Engineer(2019):mortar_board:and Telecommunications Engineer(2019):mortar_board:. I like to travel :earth_asia: :airplane: Currently working in the development of projects such as [Summer](https://summer.so/)<code><img height ="20" src ="https://summer.so/wp-content/uploads/2020/11/logo_summer.png"></code> , [TriMarket](https://trimarket.store)<code><img height="20" src="https://trimarket.store/wp-content/uploads/2020/07/cropped-Logo-TriMarket-escogido-2_Mesa-de-trabajo-1-min.png" ></code> y [TriUnico](https://triunico.com)<code><img height="20" src="https://triunico.com/wp-content/uploads/2020/04/icono-peque%C3%B1o_Mesa-de-trabajo-1.png"></code> , collaborating in the areas of SEO, Marketing, Project Manager, logistics.
+I'm :pineapple: Yes, like fruit but in Spanish, Industrial Engineer(2019):mortar_board:and Telecommunications Engineer(2019):mortar_board:. I like to travel :earth_asia: :airplane: Currently working in the development of projects such as [Summer](https://summer.so/)<code><img height ="20" src ="https://summer.so/wp-content/uploads/2020/11/logo_summer.png"></code> y [TriUnico](https://triunico.com)<code><img height="20" src="https://triunico.com/wp-content/uploads/2020/04/icono-peque%C3%B1o_Mesa-de-trabajo-1.png"></code> , collaborating in the areas of SEO, Marketing, Project Manager, logistics.
 
 - 🔭 I’m currently working on data extraction, ETL, web scraping, data analysis.
 - 🌱 I’m currently learning Solidity, Smart Contracts, DeFi, Blockchain,DApp, Truffle, web3.js , react.js.
@@ -57,12 +57,9 @@ I'm :pineapple: Yes, like fruit but in Spanish, Industrial Engineer(2019):mortar
   - [Instagram](https://www.instagram.com/triunico_/)
   - [Twitter](https://twitter.com/Triunico_)
   - [Linkedin](https://www.linkedin.com/company/triunico/)
-- <code><img height="20" src="https://trimarket.store/wp-content/uploads/2020/07/cropped-Logo-TriMarket-escogido-2_Mesa-de-trabajo-1-min.png" ></code>TriMarket
-  - [Fanpage TriMarket](https://www.facebook.com/trimarket.store)
-  - [Instagram](https://www.instagram.com/trimarket_/)
-  - [Twitter](https://twitter.com/trimarket_)
+
 - <code><img height="20" src="https://summer.so/wp-content/uploads/2020/11/logo_summer.png" ></code>Summer
-  - [Fanpage TriMarket](https://www.facebook.com/TheSummerApp/)
+  - [Fanpage Facebook](https://www.facebook.com/TheSummerApp/)
   - [Instagram](https://www.instagram.com/app_summer/)
 
 >"Focus"
