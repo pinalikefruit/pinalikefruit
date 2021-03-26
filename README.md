@@ -25,6 +25,7 @@ I'm :pineapple: Yes, like fruit but in Spanish, Industrial Engineer(2019):mortar
 <code><img height="30" src="https://s1.eestatic.com/2017/07/19/actualidad/Actualidad_232491174_129964691_698x400.jpg"></code>
 <code><img height="30" src="https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg"</code>
 <code><img height="30" src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png"></code>
+
 ###### Framework
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1280px-NumPy_logo.svg.png"></code>
