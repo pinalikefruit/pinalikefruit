@@ -6,7 +6,7 @@ I'm :pineapple: Yes, like fruit but in Spanish, Industrial Engineer(2019):mortar
 - 🔭 I’m currently working on data extraction, ETL, web scraping, data analysis.
 - 🌱 I’m currently learning Solidity, Smart Contracts, DeFi, Blockchain,DApp, Truffle, web3.js , react.js.
 
-#### Skill
+#### Hard Skill
 ###### SO
 <code><img height="30" src="https://e7.pngegg.com/pngimages/936/104/png-clipart-tux-racer-linux-kernel-mailing-list-computer-icons-linux-logo-vertebrate.png"></code>
 <code><img height="30" src="https://www.muycomputer.com/wp-content/uploads/2013/08/Windows8.jpeg"></code>
