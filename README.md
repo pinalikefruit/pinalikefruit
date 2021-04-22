@@ -1,9 +1,9 @@
 
-<img  src="https://bit.ly/3ekNzv1" width="1145" height="40" >
+<img  src="https://bit.ly/3ekNzv1" width="1145" height="30" >
 
 # Hi community 👋 !!!
 
-I'm 🍍 Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**(2019):mortar_board: and **Telecommunications Engineer**(2019) :mortar_board:. I like to travel around the world :earth_asia: :airplane: I have worked in the development of projects such as [TriUnico](https://triunico.com)<a href="https://triunico.com/"><img height="30" src="https://bit.ly/3xcCwwv" alt="Triunico icono"></a> , collaborating in the areas of SEO, Marketing and Project Manager.
+I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**(2019):mortar_board: and **Telecommunications Engineer**(2019) :mortar_board:. I like to **travel around the world** :earth_asia: :airplane: I have worked in the development of projects such as [TriUnico](https://triunico.com)<a href="https://triunico.com/"><img height="30" src="https://bit.ly/3xcCwwv" alt="Triunico icono"></a> , collaborating in the areas of SEO, Marketing and Project Manager.
 
 - 💪🏼 I have worked in the last two years on projects such as **Data Science**, doing web scrapers, cleaning and data processing.
 - 🔭 I’m currently working on Smart Contracts with Solidity, web3.py, Blockchain with Ganache .
@@ -38,10 +38,9 @@ I'm 🍍 Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**(
 
 ### Languages
 <a href="https://www.python.org/"><img height="30" src="https://bit.ly/2QLpqp8" alt="Python icono"> Python </a>
+<a href="https://bit.ly/3dC9m1S"><img height="30" src="https://bit.ly/3xdusLY" alt="Ubuntu icono">Solidity</a>
 <a href="https://www.r-project.org/"><img height="30" src="https://bit.ly/32z75yr" alt="R icono"> R </a>
 <a href="https://bit.ly/2QmzlBJ"><img height="30" src="https://bit.ly/3sGvA7p" alt="SQL icono">SQL</a>
-<a href="https://bit.ly/3dC9m1S"><img height="30" src="https://bit.ly/3xdusLY" alt="Ubuntu icono">Solidity</a>
-
 
 ### Framework
 <a href="https://pandas.pydata.org/"><img height="30" src="https://bit.ly/3nlSBeV" alt="Pandas icono" >Pandas </a>
@@ -55,11 +54,11 @@ I'm 🍍 Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**(
 ### Cloud
 <a href="https://cloud.google.com/"><img height="30" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" alt="GCP icono"> GCP </a>
 
-### DataBase
+### Database
 <a href="https://www.postgresql.org/"><img height="30" src="https://bit.ly/3tJE9Q1" alt="PostgreSQL icono"> PostgreSQL </a>
-<a href="https://www.mysql.com/"><img height="30" src="https://bit.ly/2QfaWOD" alt="MySQL icono"> MySQL </a>
+<a href="https://www.mysql.com/"><img height="30" src="https://bit.ly/3sBK8Fn" alt="MySQL icono"> MySQL </a>
 <a href="https://www.mongodb.com/"><img height="30" src="https://bit.ly/3n8QniA" alt="MongoDB icono"> MongoDB </a>
-<a href="https://bit.ly/2PgfmnQ"><img height="30" src="https://bit.ly/2QQLFKc" alt="SQL Azure icono"> SQL Azure </a>
+<a href="https://bit.ly/2PgfmnQ"><img height="30" src="https://bit.ly/3tGRZmj" alt="SQL Azure icono"> SQL Azure </a>
 
 #### Ventures
 - <a href="https://triunico.com"><img height="30" src="https://bit.ly/3xcCwwv" alt="Tirunico icono">TriUnico</a>
@@ -69,10 +68,11 @@ I'm 🍍 Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**(
 
 ### Contact
 
-<a href="https://twitter.com/pinajmr"><img height="20" src="https://bit.ly/2QmAR6T" alt="Twitter icono"></a> 
 <a href="https://www.linkedin.com/in/pinajmr/"><img height="20" src="https://bit.ly/32CqoH6" alt="Linkedin icono"></a> 
+<a href="https://twitter.com/pinajmr"><img height="20" src="https://bit.ly/2QmAR6T" alt="Twitter icono"></a> 
+<a href="https://t.me/pinajmr"><img height="20" src="https://bit.ly/3sBJKGV" alt="Telegram icono"></a> 
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=pinajoma0@gmail.com"><img height="20" src="https://bit.ly/3guyIAU" alt="Correo icono"></a> 
 >"Focus"
 
 
-<img  src="https://bit.ly/3ekNzv1" width="1145" height="40" >
+<img  src="https://bit.ly/3ekNzv1" width="1145" height="30" >
