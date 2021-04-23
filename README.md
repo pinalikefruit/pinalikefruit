@@ -6,21 +6,35 @@
 I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**(2019):mortar_board: and **Telecommunications Engineer**(2019) :mortar_board:. I like to **travel around the world** :earth_asia: :airplane: I have worked in the development of projects such as [TriUnico](https://triunico.com)<a href="https://triunico.com/"><img height="30" src="https://bit.ly/3xcCwwv" alt="Triunico icono"></a> , collaborating in the areas of SEO, Marketing and Project Manager.
 
 - 💪🏼 I have worked in the last two years on projects such as **Data Science**, doing web scrapers, cleaning and data processing.
-- 🔭 I’m currently working on Smart Contracts with Solidity, web3.py, Blockchain with Ganache .
-- 🌱 I’m currently learning DeFi, DApp, web3.js , react.js.
+- 🔭 Currently I'm working on the [CryptoZombie](https://cryptozombies.io/) project, updating it to the latest version of solidity ^ 0.8.4 and web3.js, adding improvements, I'll upload it in the repository soon.
+- 🌱 I’m currently learning DeFi, DApp, web3.js , react.js and IPFS.
 
 ## Hard Skill
 
 ------------
 
 ### ₿lockchain Skill 
-* <a href="https://bit.ly/3dC9m1S"><img height="30" src="https://bit.ly/3xdusLY" alt="Solidity icono"> Solidity </a>  
-* <a href="https://bit.ly/3tHdvXY"><img height="30" src="https://bit.ly/2RKAROi" alt="Truffle Suite icono"> Truffle Suite </a> 
+#### Frameworks
+* <a href="https://bit.ly/3tHdvXY"><img height="30" src="https://bit.ly/2RKAROi" alt="Truffle Suite icono"> Truffle Framework </a> 
+ 
+#### Smart Contract Languages
+* <a href="https://bit.ly/3dC9m1S"><img height="30" src="https://bit.ly/3xdusLY" alt="Solidity icono"> Solidity </a> 
+
+#### Test Blockchains
+* <a href="https://www.trufflesuite.com/ganache"><img height="30" src="https://bit.ly/3epwMH8" alt="Ganache icono"> Ganache </a>
+
+#### JavaScript APIs For Communicating With Ethereum
+* [Web3.js](https://web3js.readthedocs.io/en/v1.3.4/)
+
+#### Backend Ethereum APIs
+* [Web3.py](https://web3py.readthedocs.io/en/stable/)
+
+#### Ethereum & IPFS APIs
 * <a href="https://infura.io/"><img height="30" src="https://bit.ly/3sEbZEW" alt="Infura icono"> Infura </a>
 
 
 -----------
-
+## Others skill
 ### Operating System
 
 <a href="https://ubuntu.com/"><img height="30" src="https://bit.ly/3xe8NDc" alt="Ubuntu icono"> Ubuntu </a>
@@ -38,7 +52,6 @@ I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**
 
 ### Languages
 <a href="https://www.python.org/"><img height="30" src="https://bit.ly/2QLpqp8" alt="Python icono"> Python </a>
-<a href="https://bit.ly/3dC9m1S"><img height="30" src="https://bit.ly/3xdusLY" alt="Ubuntu icono">Solidity</a>
 <a href="https://www.r-project.org/"><img height="30" src="https://bit.ly/32z75yr" alt="R icono"> R </a>
 <a href="https://bit.ly/2QmzlBJ"><img height="30" src="https://bit.ly/3sGvA7p" alt="SQL icono">SQL</a>
 
