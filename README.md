@@ -7,7 +7,7 @@ I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**
 
 - 💪🏼 I have worked in the last two years on projects such as **Data Science**, doing web scrapers, cleaning and data processing.
 - 🔭 Currently I'm working on the [CryptoZombie](https://cryptozombies.io/) project, updating it to the latest version of solidity ^ 0.8.4 and web3.js, adding improvements, I'll upload it in the repository soon.
-- 🌱 I’m currently learning DeFi, DApp, web3.js , react.js and IPFS.
+- 🌱 I’m currently learning DeFi, DApp, node.js and IPFS.
 
 ## Hard Skill
 
