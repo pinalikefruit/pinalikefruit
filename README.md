@@ -3,7 +3,7 @@
 
 # Hi community 👋 !!!
 
-I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**(2019):mortar_board: and **Telecommunications Engineer**(2019) :mortar_board:. I like to **travel around the world** :earth_asia: :airplane: I have worked in the development of projects such as [TriUnico](https://triunico.com)<a href="https://triunico.com/"><img height="30" src="https://bit.ly/3xcCwwv" alt="Triunico icono"></a> , collaborating in the areas of SEO, Marketing and Project Manager.
+I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**(2019):mortar_board: and **Telecommunications Engineer**(2019) :mortar_board:. I like to **travel around the world** :earth_asia: :airplane: I have worked in the development of projects such as [TriUnico](https://triunico.com)<a href="https://triunico.com/"><img height="30" src="https://bit.ly/3e3VIoB" alt="Triunico icono"></a> , collaborating in the areas of SEO, Marketing and Project Manager.
 
 - 💪🏼 I have worked in the last two years on projects such as **Data Science**, doing web scrapers, cleaning and data processing.
 - 🔭 Currently I'm working on the [CryptoZombie](https://cryptozombies.io/) project, updating it to the latest version of solidity ^ 0.8.4 and web3.js, adding improvements, I'll upload it in the repository soon.
@@ -37,7 +37,7 @@ I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**
 ## Others skill
 ### Operating System
 
-<a href="https://ubuntu.com/"><img height="30" src="https://bit.ly/3xe8NDc" alt="Ubuntu icono"> Ubuntu </a>
+<a href="https://ubuntu.com/"><img height="30" src="https://bit.ly/3xxX0jm" alt="Ubuntu icono"> Ubuntu </a>
 <a href="https://bit.ly/3ngq9ek"><img height="30" src="https://bit.ly/2QNS0WN" alt="Windonw icono"> Windonw </a>
 
 ### Environment and tools
@@ -52,10 +52,12 @@ I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**
 
 ### Languages
 <a href="https://www.python.org/"><img height="30" src="https://bit.ly/2QLpqp8" alt="Python icono"> Python </a>
+<a href="https://www.javascript.com/"><img height="30" src="https://bit.ly/3vHCkE3" alt="JavaScript icono"> JavaScript </a>
 <a href="https://www.r-project.org/"><img height="30" src="https://bit.ly/32z75yr" alt="R icono"> R </a>
 <a href="https://bit.ly/2QmzlBJ"><img height="30" src="https://bit.ly/3sGvA7p" alt="SQL icono">SQL</a>
 
 ### Framework
+<a href="https://nodejs.org/"><img height="30" src="https://bit.ly/3vzfjD7" alt="Nodojs icono" > Node.js </a>
 <a href="https://pandas.pydata.org/"><img height="30" src="https://bit.ly/3nlSBeV" alt="Pandas icono" >Pandas </a>
 <a href="https://numpy.org/install/"><img height="30" src="https://bit.ly/3n8RBui" alt="Numpy icono"> Numpy </a>
 <a href="https://scrapy.org/"><img height="30" src="https://bit.ly/3eqIWiO" alt="Scrapy icono"> Scrapy </a>
@@ -74,7 +76,7 @@ I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**
 <a href="https://bit.ly/2PgfmnQ"><img height="30" src="https://bit.ly/3tGRZmj" alt="SQL Azure icono"> SQL Azure </a>
 
 #### Ventures
-- <a href="https://triunico.com"><img height="30" src="https://bit.ly/3xcCwwv" alt="Tirunico icono">TriUnico</a>
+- <a href="https://triunico.com"><img height="30" src="https://bit.ly/3e3VIoB" alt="Tirunico icono">TriUnico</a>
   - [Fanpage Facebook](https://www.facebook.com/TriUnico/)
   - [Instagram](https://www.instagram.com/triunico_/)
   - [Linkedin](https://www.linkedin.com/company/triunico/)
