@@ -7,7 +7,7 @@ I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**
 
 - 💪🏼 I have worked in the last two years on projects such as **Data Science**, doing web scrapers, cleaning and data processing.
 - 🔭 Currently I'm working on the [CryptoZombie](https://cryptozombies.io/) project, updating it to the latest version of solidity ^ 0.8.4 and web3.js, adding improvements, I'll upload it in the repository soon.
-- 🌱 I’m currently learning DeFi, DApp, node.js and IPFS.
+- 🌱 I’m currently learning DeFi, DApp and IPFS.
 
 ## Hard Skill
 
@@ -35,20 +35,6 @@ I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**
 
 -----------
 ## Others skill
-### Operating System
-
-<a href="https://ubuntu.com/"><img height="30" src="https://bit.ly/3xxX0jm" alt="Ubuntu icono"> Ubuntu </a>
-<a href="https://bit.ly/3ngq9ek"><img height="30" src="https://bit.ly/2QNS0WN" alt="Windonw icono"> Windonw </a>
-
-### Environment and tools
-
-<a href="https://github.com"><img height="30" src="https://bit.ly/32y9Pf9" alt="GitHub icono"> Git </a>
-<a href="https://colab.research.google.com/"><img height="30" src="https://bit.ly/3gBdUaC" alt="Colab icono"> Google Colab </a>
-<a href="https://bit.ly/3ve2MF1"><img height="30" src="https://bit.ly/3tDWZbe" alt="VSCode icono"> VS Code </a>
-<a href="https://jupyter.org/"><img height="30" src="https://bit.ly/32CBkVc" alt="Jupyter Notebook icono"> Jupiter Notebook </a>
-<a href="https://www.anaconda.com"><img height="30" src="https://bit.ly/3hezBtZ" alt="Anaconda icono"> Anaconda </a>
-<a href="https://bit.ly/3epuVlu"><img height="30" src="https://bit.ly/3xgGMuM" alt="Xpath icono"> Xpath </a>
-<a href="https://bit.ly/3equ0S5"><img height="30" src="https://bit.ly/3hfN4BA" alt="RegEx icono"> Regular expression </a>
 
 ### Languages
 <a href="https://www.python.org/"><img height="30" src="https://bit.ly/2QLpqp8" alt="Python icono"> Python </a>
@@ -65,6 +51,22 @@ I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**
 <a href="https://matplotlib.org/"><img height="30" src="https://bit.ly/3dFQn6D" alt="Matplotlib icono"> Matplotlib </a>
 <a href="https://bit.ly/3enyx7B"><img height="30" src="https://bit.ly/3sGiozl" alt="Beautiful Soup icono"> Beautiful Soup </a>
 <a href="https://bit.ly/3tJDxKd"><img height="30" src="https://bit.ly/3sHZdVV" alt="Requests icono"> Requests </a>
+
+### Operating System
+
+<a href="https://ubuntu.com/"><img height="30" src="https://bit.ly/3xxX0jm" alt="Ubuntu icono"> Ubuntu </a>
+<a href="https://bit.ly/3ngq9ek"><img height="30" src="https://bit.ly/2QNS0WN" alt="Windonw icono"> Windonw </a>
+
+### Environment and tools
+
+<a href="https://github.com"><img height="30" src="https://bit.ly/32y9Pf9" alt="GitHub icono"> Git </a>
+<a href="https://colab.research.google.com/"><img height="30" src="https://bit.ly/3gBdUaC" alt="Colab icono"> Google Colab </a>
+<a href="https://bit.ly/3ve2MF1"><img height="30" src="https://bit.ly/3tDWZbe" alt="VSCode icono"> VS Code </a>
+<a href="https://jupyter.org/"><img height="30" src="https://bit.ly/32CBkVc" alt="Jupyter Notebook icono"> Jupiter Notebook </a>
+<a href="https://www.anaconda.com"><img height="30" src="https://bit.ly/3hezBtZ" alt="Anaconda icono"> Anaconda </a>
+<a href="https://bit.ly/3epuVlu"><img height="30" src="https://bit.ly/3xgGMuM" alt="Xpath icono"> Xpath </a>
+<a href="https://bit.ly/3equ0S5"><img height="30" src="https://bit.ly/3hfN4BA" alt="RegEx icono"> Regular expression </a>
+
 
 ### Cloud
 <a href="https://cloud.google.com/"><img height="30" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" alt="GCP icono"> GCP </a>
