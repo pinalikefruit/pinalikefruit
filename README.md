@@ -5,9 +5,10 @@
 
 I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**(2019):mortar_board: and **Telecommunications Engineer**(2019) :mortar_board:. I like to **travel around the world** :earth_asia: :airplane: I have worked in the development of projects such as [TriUnico](https://triunico.com)<a href="https://triunico.com/"><img height="30" src="https://bit.ly/3e3VIoB" alt="Triunico icono"></a> , collaborating in the areas of SEO, Marketing and Project Manager.
 
-- 💪🏼 I have worked in the last two years on projects such as **Data Science**, doing web scrapers, cleaning and data processing.
-- 🔭 Currently I'm working on the [CryptoZombie](https://cryptozombies.io/) project, updating it to the latest version of solidity ^ 0.8.4 and web3.js, adding improvements, I'll upload it in the repository soon.
-- 🌱 I’m currently learning DeFi, DApp and IPFS.
+- 💪🏼 Since the beginning of 2017, passionate about **Blockchain** technology and monitoring of top projects currently.
+- 🔭 I have worked in the last two years on projects such as **Data Science**, doing web scrapers, cleaning and data processing.
+- 🌱 Currently working with projects on the blockchain such as **DeFi, DEX, Yield Farming, Flash Loan, Trading bots, ChainkLink, NFT and Token, based on the Ethereum and Binance Smart Chain network.**
+
 
 ## Hard Skill
 
