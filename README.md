@@ -26,6 +26,7 @@ I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**
 
 #### JavaScript APIs For Communicating With Ethereum
 * [Web3.js](https://web3js.readthedocs.io/en/v1.3.4/)
+* [Ethers.js](https://docs.ethers.io/)
 
 #### Backend Ethereum APIs
 * [Web3.py](https://web3py.readthedocs.io/en/stable/)
