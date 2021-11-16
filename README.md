@@ -16,13 +16,11 @@ I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**
 
 ### ₿lockchain Skill 
 #### Frameworks
-* <a href="https://bit.ly/3tHdvXY"><img height="30" src="https://bit.ly/2RKAROi" alt="Truffle Suite icono"> Truffle Framework </a> 
+* <a href="https://bit.ly/3owZVVJ"><img height="30" src="https://hardhat.org/" alt="Hardhat icono"> Hardhat Framework (default) </a>
+* <a href="https://bit.ly/3tHdvXY"><img height="30" src="https://bit.ly/2RKAROi" alt="Truffle Suite icono"> Truffle Framework (good handling)</a> 
  
 #### Smart Contract Languages
 * <a href="https://bit.ly/3dC9m1S"><img height="30" src="https://bit.ly/3xdusLY" alt="Solidity icono"> Solidity </a> 
-
-#### Test Blockchains
-* <a href="https://www.trufflesuite.com/ganache"><img height="30" src="https://bit.ly/3epwMH8" alt="Ganache icono"> Ganache </a>
 
 #### JavaScript APIs For Communicating With Ethereum
 * [Web3.js](https://web3js.readthedocs.io/en/v1.3.4/)
@@ -30,10 +28,6 @@ I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**
 
 #### Backend Ethereum APIs
 * [Web3.py](https://web3py.readthedocs.io/en/stable/)
-
-#### Ethereum & IPFS APIs
-* <a href="https://infura.io/"><img height="30" src="https://bit.ly/3sEbZEW" alt="Infura icono"> Infura </a>
-
 
 -----------
 ## Others skill
