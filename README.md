@@ -16,7 +16,7 @@ I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**
 
 ### ₿lockchain Skill 
 #### Frameworks
-* <a href="https://bit.ly/3owZVVJ"><img height="30" src="https://hardhat.org/" alt="Hardhat icono"> Hardhat Framework (default) </a>
+* <a href="https://hardhat.org"><img height="30" src="https://bit.ly/3wUmjwi" alt="Hardhat icono"> Hardhat Framework (default) </a>
 * <a href="https://bit.ly/3tHdvXY"><img height="30" src="https://bit.ly/2RKAROi" alt="Truffle Suite icono"> Truffle Framework (good handling)</a> 
  
 #### Smart Contract Languages
