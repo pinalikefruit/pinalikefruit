@@ -7,7 +7,7 @@ I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**
 
 - 💪🏼 Since the beginning of 2017, passionate about **Blockchain** technology and monitoring of top projects currently.
 - 🔭 I have worked in the last two years on projects such as **Data Science**, doing web scrapers, cleaning and data processing.
-- 🌱 Currently working with projects on the blockchain such as **DeFi, DEX, Yield Farming, Flash Loan, Trading bots, ChainkLink, NFT and Token, based on the Ethereum and Binance Smart Chain network.**
+- 🌱 Currently working with project about NFT-Collectible for *Chainlink Fall 2021 Hackathon*. You can found in this [link](https://github.com/pinajmr/NFT-Collectible-Humans).
 
 
 ## Hard Skill
