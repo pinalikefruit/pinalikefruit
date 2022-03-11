@@ -7,8 +7,7 @@ I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**
 
 - 💪🏼 Since the beginning of 2017, passionate about **Blockchain** technology and monitoring of top projects currently.
 - 🔭 I have worked in the last two years on projects such as **Data Science**, doing web scrapers, cleaning and data processing.
-- 🌱 Currently working with project about NFT-Collectible for *Chainlink Fall 2021 Hackathon*. You can found in this [link](https://github.com/pinajmr/NFT-Collectible-Humans).
-
+- 🌱 Currently working with Flash loan, yield farming, trading bot, on the protocols like Uniswap, Aave, Compound, dxdy and Pancakeswap.
 
 ## Hard Skill
 
@@ -28,6 +27,9 @@ I'm 🍍. Yes, like fruit in traslated into spanish, I'm **Industrial Engineer**
 
 #### Backend Ethereum APIs
 * [Web3.py](https://web3py.readthedocs.io/en/stable/)
+
+#### Projects
+*  NFT-Collectible for *Chainlink Fall 2021 Hackathon*. You can found in this [link website](https://bafybeihlpe7kpnaifm7tn4jdrm6z2kzc44kl6kvm5axhwnyz5tormchdpq.ipfs.infura-ipfs.io/#/) and  [code](https://github.com/pinajmr/NFT-Collectible-Humans).
 
 -----------
 ## Others skill
