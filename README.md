@@ -29,6 +29,7 @@ I'm here to share my knowledge of these technologies that I have learned during 
 * <img height="30" src="https://bit.ly/35cqB8D" alt="logo avatar"> NFT-Collectible for *Chainlink Fall 2021 Hackathon*. You can found in this [link website](https://bafybeihlpe7kpnaifm7tn4jdrm6z2kzc44kl6kvm5axhwnyz5tormchdpq.ipfs.infura-ipfs.io/#/) and  [code](https://github.com/pinajmr/NFT-Collectible-Humans).
 * <img height="30" src="https://bit.ly/36DXWKi" alt="Dydx"> Flashloan with DyDx protocol [code](https://github.com/pinajmr/flashloan_DyDx.git).
 * <img height="30" src="https://bit.ly/3uo1gkM" alt="logo Uniswap"> Swap using Ethers.js and Web3.js about Uniswap V1,V2 and V3 you can seee and repository secction.
+* <img height="30" src="https://bit.ly/36CRiEf" alt="royalties"> Get royalties in your NFT collection [code](https://github.com/pinajmr/NFT-withRoyalties).
 *  <img height="30" src="https://bit.ly/3us8nJ6" alt="Logo Aave"> Swap- Deposit- Borrow with Aave Protocol [link repository](https://github.com/pinajmr/aave_borrow_brownie)
 *  <img height="30" src="https://bit.ly/3uolquM" alt="Logo Open Zeppelin">applying implementations of OpenZeppelin [link repository](https://github.com/pinajmr/OpenZeppelin-Implementations)
 *  <img height="30" src="https://bit.ly/36wvCJY" alt="logo">Fund me project [link repository](https://github.com/pinajmr/fundMe-brownie)
