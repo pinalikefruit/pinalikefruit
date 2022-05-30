@@ -31,8 +31,8 @@ I'm here to share my knowledge of these technologies that I have learned during 
 * <img height="30" src="https://bit.ly/3uo1gkM" alt="logo Uniswap"> Swap using Ethers.js and Web3.js about Uniswap V1,V2 and V3 you can seee and repository secction.
 * <img height="30" src="https://bit.ly/36CRiEf" alt="royalties"> Get royalties in your NFT collection [code](https://github.com/pinajmr/NFT-withRoyalties).
 *  <img height="30" src="https://bit.ly/3us8nJ6" alt="Logo Aave"> Swap- Deposit- Borrow with Aave Protocol [link repository](https://github.com/pinajmr/aave_borrow_brownie)
-*  <img height="30" src="https://bit.ly/3uolquM" alt="Logo Open Zeppelin">applying implementations of OpenZeppelin [link repository](https://github.com/pinajmr/OpenZeppelin-Implementations)
-*  <img height="30" src="https://bit.ly/3xdQmRF" alt="logo">Fund me project [link repository](https://github.com/pinajmr/fundMe-brownie)
+*  <img height="30" src="https://bit.ly/3NKWSUS" alt="Logo Open Zeppelin">applying implementations of OpenZeppelin [link repository](https://github.com/pinajmr/OpenZeppelin-Implementations)
+*  <img height="30" src="https://bit.ly/3PPpdeE" alt="logo">Fund me project [link repository](https://github.com/pinajmr/FundMe)
 *  <img height="30" src="https://bit.ly/3wFJFYd" alt="">Working with logs and Events [link repository](https://github.com/pinajmr/events-logs-hardhat)
 * <img height="30" src="https://bit.ly/3NolyTJ" alt="Pina coin"> PinaCoin deployment ERC-20 [link repository](https://github.com/pinajmr/PinaCoin)
 *  <img height="30" src="https://bit.ly/3JLxsF5" alt="crowdfundig">How to do crowdfunding [linkn repository](https://github.com/pinajmr/crowdfunding)
