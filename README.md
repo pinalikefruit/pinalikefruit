@@ -30,6 +30,7 @@ I'm here to share my knowledge of these technologies that I have learned during 
 * <img height="30" src="https://bit.ly/36DXWKi" alt="Dydx"> Flashloan with DyDx protocol [code](https://github.com/pinajmr/flashloan_DyDx.git).
 * <img height="30" src="https://bit.ly/3uo1gkM" alt="logo Uniswap"> Swap using Ethers.js and Web3.js about Uniswap V1,V2 and V3 you can seee and repository secction.
 * <img height="30" src="https://bit.ly/36CRiEf" alt="royalties"> Get royalties in your NFT collection [code](https://github.com/pinajmr/NFT-withRoyalties).
+* <img height="30" src="https://bit.ly/3912yeR" alt="royalties"> Lottery [code](https://github.com/pinajmr/Lottery).
 *  <img height="30" src="https://bit.ly/3us8nJ6" alt="Logo Aave"> Swap- Deposit- Borrow with Aave Protocol [link repository](https://github.com/pinajmr/aave_borrow_brownie)
 *  <img height="30" src="https://bit.ly/3NKWSUS" alt="Logo Open Zeppelin">applying implementations of OpenZeppelin [link repository](https://github.com/pinajmr/OpenZeppelin-Implementations)
 *  <img height="30" src="https://bit.ly/3PPpdeE" alt="logo">Fund me project [link repository](https://github.com/pinajmr/FundMe)
