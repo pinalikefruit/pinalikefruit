@@ -12,8 +12,8 @@ I'm here to share my knowledge of these technologies that I have learned during 
 
 ### ₿lockchain Skill 
 #### Frameworks
-* <a href="https://hardhat.org"><img height="30" src="https://bit.ly/3wUmjwi" alt="Hardhat icono"> Hardhat Framework (default) </a>
-* <a href="https://bit.ly/3tHdvXY"><img height="30" src="https://bit.ly/2RKAROi" alt="Truffle Suite icono"> Truffle Framework (good handling)</a> 
+* <a href="https://hardhat.org"><img height="30" src="https://bit.ly/3wUmjwi" alt="Hardhat icono"> Hardhat Framework (good handling) </a>
+* <a href="https://bit.ly/3njfz6U"><img height="30" src="https://bit.ly/3HPFmgH" alt="Brownie icono"> Brownie Framework (default)</a> 
  
 #### Smart Contract Languages
 * <a href="https://bit.ly/3dC9m1S"><img height="30" src="https://bit.ly/3xdusLY" alt="Solidity icono"> Solidity </a> 
