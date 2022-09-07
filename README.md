@@ -1,98 +1,108 @@
 
 <img  src="https://bit.ly/3ekNzv1" width="1145" height="30" >
 
-# Hi community 👋 !!!
+# Hi android🤖 👋 !!!
+I'm 🍍 . Yes, like fruit in traslated into spanish, I'm <b>Smart Contract Engineer</b> and I want to become an <b>Blockchain Security Researcher</b>.
+In continuous learning working mainly with DeFi protocols and <b>security</b>.
+I'm here to <b>share my knowledge</b> of these technologies that I have learned during these years for those who wish to learn and create incredible things.
 
-I'm 🍍. Yes, like fruit in traslated into spanish, I'm a Smart Contract Developer in continuous learning working mainly with DeFi protocols.
-<br>
-I'm here to share my knowledge of these technologies that I have learned during these years for those who wish to learn and create incredible things.
+- 🎯  What am I currently learning? <b>Contract vulnerabilities playing [ethernaut](https://ethernaut.openzeppelin.com/)</b> and learning all the terms associated with each level by exposing them on my website <a target="_blank" href="https://pinalikefruit.com"><img height="15" src="https://img.shields.io/badge/PinaLikeFruit-D73328?style=for-the-badge&logo=Dydx&logoColor=white" alt="Pina"></a>
 
+* 🔥  What am I currently participating in? In the [Ethereum developer program by Platzi 2022](https://platzi.com/cursos/ethereum-dev-program/) where together with a great team we built the <b>[Dochain MVP](https://dochain.vercel.app/)</b>
 
-## Hard Skill
+Feel free to write to me if you need help, I'll try to help
 
-### ₿lockchain Skill 
-#### Frameworks
-* <a href="https://hardhat.org"><img height="30" src="https://bit.ly/3wUmjwi" alt="Hardhat icono"> Hardhat Framework (good handling) </a>
-* <a href="https://bit.ly/3njfz6U"><img height="30" src="https://bit.ly/3HPFmgH" alt="Brownie icono"> Brownie Framework (default)</a> 
+## ⛓ ₿lockchain Skill 
+
  
-#### Smart Contract Languages
-* <a href="https://bit.ly/3dC9m1S"><img height="30" src="https://bit.ly/3xdusLY" alt="Solidity icono"> Solidity </a> 
-
-#### JavaScript APIs For Communicating With Ethereum
-* <img height="30" src="https://bit.ly/3IGF0I6" alt="logo web3js">[Web3.js](https://web3js.readthedocs.io/en/v1.3.4/)
-* <img height="30" src="https://bit.ly/3IBrPIg" alt="logo ethersjs">[Ethers.js](https://docs.ethers.io/)
-
-#### Backend Ethereum APIs
-* <img height="30" src="https://bit.ly/3DbIfpM" alt="logo python">[Web3.py](https://web3py.readthedocs.io/en/stable/)
-
-#### Projects
+ ###  Languages
+ <p align="left">
+ <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
+ <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+ <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  </p>
+ 
+ ### Library
+ <p align="left">
+ <img src="https://img.shields.io/badge/Ethers.js-7A98FB?style=for-the-badge&logo=Ethers.js&logoColor=white" alt="Ethers.js">
+ <img src="https://img.shields.io/badge/web3.py-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Web3.py">
+ <img src="https://img.shields.io/badge/web3.js-bdbfc0?style=for-the-badge&logo=web3.js&logoColor=f06823" alt="Web3.js">
+ </p>
+ 
+ ### Frameworks
+ <p align="left">
+ <img src="https://img.shields.io/badge/Hardhat-fff04d?style=for-the-badge&logo=Hardhat&logoColor=white" alt="Hardhat">
+ <img src="https://img.shields.io/badge/Brownie-f7f6d6?style=for-the-badge&logo=Brownie&logoColor=white" alt="Brownie">
+ </p>
+ 
+ ### Testing
+ <p align="left">
+ <img src="https://img.shields.io/badge/Mocha-8c6749?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha">
+ <img src="https://img.shields.io/badge/Chai-f6e8c9?style=for-the-badge&logo=Chai&logoColor=a40802" alt="Chai">
+ <img src="https://img.shields.io/badge/Pytest-e6e7e7?style=for-the-badge&logo=python&logoColor=00a0e4" alt="Pytest">
+ </p>
+ 
+ 
+ ### Projects and protocols that I interact
+ <p align="left">
+ <img src="https://img.shields.io/badge/OpenZeppelin-65aef8?&style=for-the-badge&logo=OpenZeppelin&logoColor=white" alt="OpenZeppelin"/>
+ <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white" alt="Chainlink">
+ <img src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="EVM">
+ <img src="https://img.shields.io/badge/Uniswap-fe017b?style=for-the-badge&logo=Uniswap&logoColor=white" alt="Uniswap">
+ <img src="https://img.shields.io/badge/AAVE-8674ac?style=for-the-badge&logo=AAVE&logoColor=white" alt="AAVE">
+ <img src="https://img.shields.io/badge/Pancakeswap-d1884f?style=for-the-badge&logo=Pancakeswap&logoColor=48d9e4" alt="Pancakeswap">
+ <img src="https://img.shields.io/badge/Dydx-000000?style=for-the-badge&logo=Dydx&logoColor=white" alt="Dydx">
+ 
+ </p>
+ 
+## 👨‍💻 My Projects
+* <img height="40" src="https://bit.ly/3x2GI3p" alt="logo dochain"> Dochain for [*Ethereum Developer program by Platzi 2022*](https://platzi.com/cursos/ethereum-dev-program/). You can found in this [link website](https://dochain.vercel.app/) and  [code](https://github.com/Dochain1).
 * <img height="30" src="https://bit.ly/35cqB8D" alt="logo avatar"> NFT-Collectible for *Chainlink Fall 2021 Hackathon*. You can found in this [link website](https://bafybeihlpe7kpnaifm7tn4jdrm6z2kzc44kl6kvm5axhwnyz5tormchdpq.ipfs.infura-ipfs.io/#/) and  [code](https://github.com/pinajmr/NFT-Collectible-Humans).
+* <img height="30" src="https://bit.ly/3NKWSUS" alt="Logo Open Zeppelin"> Applying implementations of OpenZeppelin using Brownie [link repository](https://github.com/pinajmr/Openzeppelin-applied-brownie) and Hardhat [link repository](https://github.com/pinajmr/OpenZeppelin-Implementations)
+* 🌱 Challenge of dinamic NFT [code](https://github.com/pinajmr/platziretoDNFT).
 * <img height="30" src="https://bit.ly/36DXWKi" alt="Dydx"> Flashloan with DyDx protocol [code](https://github.com/pinajmr/flashloan_DyDx.git).
 * <img height="30" src="https://bit.ly/3uo1gkM" alt="logo Uniswap"> Swap using Ethers.js and Web3.js about Uniswap V1,V2 and V3 you can seee and repository secction.
-* <img height="30" src="https://bit.ly/36CRiEf" alt="royalties"> Get royalties in your NFT collection [code](https://github.com/pinajmr/NFT-withRoyalties).
-* <img height="30" src="https://bit.ly/3912yeR" alt="royalties"> Lottery [code](https://github.com/pinajmr/Lottery).
+* 🦥 Challenge Pokemon [challenge](https://github.com/pinajmr/solidity-eth-challenge/blob/main/Retos.md) and [solution](https://github.com/pinajmr/pokemon)
+*  <img height="30" src="https://bit.ly/36CRiEf" alt="royalties"> Get royalties in your NFT collection [code](https://github.com/pinajmr/NFT-withRoyalties).
+* <img height="30" src="https://bit.ly/3912yeR" alt="Lottery"> Lottery [code](https://github.com/pinajmr/Lottery).
 *  <img height="30" src="https://bit.ly/3us8nJ6" alt="Logo Aave"> Swap- Deposit- Borrow with Aave Protocol [link repository](https://github.com/pinajmr/aave_borrow_brownie)
-*  <img height="30" src="https://bit.ly/3NKWSUS" alt="Logo Open Zeppelin">applying implementations of OpenZeppelin [link repository](https://github.com/pinajmr/OpenZeppelin-Implementations)
 *  <img height="30" src="https://bit.ly/3PPpdeE" alt="logo">Fund me project [link repository](https://github.com/pinajmr/FundMe)
 *  <img height="30" src="https://bit.ly/3wFJFYd" alt="">Working with logs and Events [link repository](https://github.com/pinajmr/events-logs-hardhat)
 * <img height="30" src="https://bit.ly/3NolyTJ" alt="Pina coin"> PinaCoin deployment ERC-20 [link repository](https://github.com/pinajmr/PinaCoin)
 *  <img height="30" src="https://bit.ly/3JLxsF5" alt="crowdfundig">How to do crowdfunding [linkn repository](https://github.com/pinajmr/crowdfunding)
 *  <img height="30" src="https://bit.ly/35e7dYV" alt="logo voto">Voting App [link repository](https://github.com/pinajmr/voting)
 
-<i>Note: all projects are compatible with EVM.</i>
 
------------
-## Others skill
+ 
+### Others skill
 
-### Languages
-<a href="https://www.python.org/"><img height="30" src="https://bit.ly/2QLpqp8" alt="Python icono"> Python </a>
-<a href="https://www.javascript.com/"><img height="30" src="https://bit.ly/3vHCkE3" alt="JavaScript icono"> JavaScript </a>
-<a href="https://www.r-project.org/"><img height="30" src="https://bit.ly/32z75yr" alt="R icono"> R </a>
-<a href="https://bit.ly/2QmzlBJ"><img height="30" src="https://bit.ly/3sGvA7p" alt="SQL icono">SQL</a>
+ <p align="center">
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+ <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+ <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+ <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> 
+ <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+ <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
+ <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+ <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+ <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+ <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+</p>
+ 
 
-### Framework 
-<a href="https://nodejs.org/"><img height="30" src="https://bit.ly/3vzfjD7" alt="Nodojs icono" > Node.js </a>
-<br>
-### Python libraries
-<a href="https://pandas.pydata.org/"><img height="30" src="https://bit.ly/3nlSBeV" alt="Pandas icono" >Pandas </a>
-<a href="https://numpy.org/install/"><img height="30" src="https://bit.ly/3qCqYRg" alt="Numpy icono"> Numpy </a>
-<a href="https://scrapy.org/"><img height="30" src="https://bit.ly/3eqIWiO" alt="Scrapy icono"> Scrapy </a>
-<a href="https://www.selenium.dev/"><img height="30" src="https://bit.ly/3avMi32" alt="Selenium icono"> Selenium </a>
-<a href="https://matplotlib.org/"><img height="30" src="https://bit.ly/3dFQn6D" alt="Matplotlib icono"> Matplotlib </a>
-<a href="https://bit.ly/3enyx7B"><img height="30" src="https://bit.ly/3sGiozl" alt="Beautiful Soup icono"> Beautiful Soup </a>
-<a href="https://bit.ly/3tJDxKd"><img height="30" src="https://bit.ly/3sHZdVV" alt="Requests icono"> Requests </a>
-
-### Environment and tools
-
-<a href="https://github.com"><img height="30" src="https://bit.ly/32y9Pf9" alt="GitHub icono"> Git </a>
-<a href="https://colab.research.google.com/"><img height="30" src="https://bit.ly/3gBdUaC" alt="Colab icono"> Google Colab </a>
-<a href="https://bit.ly/3ve2MF1"><img height="30" src="https://bit.ly/3tDWZbe" alt="VSCode icono"> VS Code </a>
-<a href="https://jupyter.org/"><img height="30" src="https://bit.ly/32CBkVc" alt="Jupyter Notebook icono"> Jupiter Notebook </a>
-<a href="https://bit.ly/3epuVlu"><img height="30" src="https://bit.ly/3xgGMuM" alt="Xpath icono"> Xpath </a>
-<a href="https://bit.ly/3equ0S5"><img height="30" src="https://bit.ly/3hfN4BA" alt="RegEx icono"> Regular expression </a>
-
-
-### Cloud
-<a href="https://cloud.google.com/"><img height="30" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" alt="GCP icono"> GCP </a>
-
-### Database
-<a href="https://www.postgresql.org/"><img height="30" src="https://bit.ly/3tJE9Q1" alt="PostgreSQL icono"> PostgreSQL </a>
-<a href="https://www.mysql.com/"><img height="30" src="https://bit.ly/3sBK8Fn" alt="MySQL icono"> MySQL </a>
-<a href="https://bit.ly/2PgfmnQ"><img height="30" src="https://bit.ly/3tGRZmj" alt="SQL Azure icono"> SQL Azure </a>
-
-### Operating System
-
-<a href="https://ubuntu.com/"><img height="30" src="https://bit.ly/3xxX0jm" alt="Ubuntu icono"> Ubuntu </a>
-<a href="https://bit.ly/3ngq9ek"><img height="30" src="https://bit.ly/2QNS0WN" alt="Windonw icono"> Windonw </a>
-
-
-### Contact
-
-<a href="https://www.linkedin.com/in/pinajmr/"><img height="20" src="https://bit.ly/3IGMo6a" alt="Linkedin icono"></a> 
-<a href="https://twitter.com/pinajmr"><img height="20" src="https://bit.ly/2QmAR6T" alt="Twitter icono"></a> 
-<a href="https://t.me/pinajmr"><img height="20" src="https://bit.ly/3sBJKGV" alt="Telegram icono"></a> 
-<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=pinajoma0@gmail.com"><img height="20" src="https://bit.ly/3guyIAU" alt="Correo icono"></a> 
+### 🔗 You can find me on 
+<a target="_blank" href="https://pinalikefruit.com"><img height="30" src="https://img.shields.io/badge/PinaLikeFruit-D73328?style=for-the-badge&logo=Dydx&logoColor=white" alt="Pina"></a> 
+<a target="_blank" href="https://www.linkedin.com/in/pinajmr/"><img height="20" src="https://bit.ly/3BkKWWE" alt="Linkedin icono"></a> 
+<a target="_blank" href="https://twitter.com/pinajmr"><img height="20" src="https://bit.ly/3wYOdZ6" alt="Twitter icono"></a> 
+<a target="_blank" href="https://t.me/pinajmr"><img height="20" src="https://bit.ly/3sBJKGV" alt="Telegram icono"></a> 
+<a target="_blank" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=pinajoma0@gmail.com"><img height="20" src="https://bit.ly/3guyIAU" alt="Correo icono">
+<a target="_blank" href="https://discord.com/channels/@pinajmr#4347"><img height="20" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+</a> 
 >"Focus"
-
-
-<img  src="https://bit.ly/3ekNzv1" width="1145" height="30" >
