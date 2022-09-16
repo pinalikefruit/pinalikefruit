@@ -8,7 +8,8 @@ I'm here to <b>share my knowledge</b> of these technologies that I have learned 
 
 - 🎯  What am I currently learning? <b>Contract vulnerabilities playing [ethernaut](https://ethernaut.openzeppelin.com/)</b> and learning all the terms associated with each level by exposing them on my website <a target="_blank" href="https://pinalikefruit.com"><img height="15" src="https://img.shields.io/badge/PinaLikeFruit-D73328?style=for-the-badge&logo=Dydx&logoColor=white" alt="Pina"></a>
 
-* 🔥  What am I currently participating in? In the [Ethereum developer program by Platzi 2022](https://platzi.com/cursos/ethereum-dev-program/) where together with a great team we built the <b>[Dochain MVP](https://dochain.vercel.app/)</b>
+* 🔥 What am I currently participating in? In ETHOnline by ETHGlobal where together with a great team we continue working with <b>[Dochain MVP](https://dochain.vercel.app/)</b> taking it to the next level.
+
 
 Feel free to write to me if you need help, I'll try to help
 
