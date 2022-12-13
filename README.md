@@ -2,7 +2,7 @@
 <img  src="https://bit.ly/3ekNzv1" width="1145" height="30" >
 
 # Hi android🤖 👋 !!!
-I'm 🍍 . Yes, like fruit , I'm <b>Smart Contract Engineer</b> and I want to become an <b>Blockchain Security Researcher</b>.
+I'm 🍍 . Yes, like fruit , I'm <b>Smart Contract Engineer</b> and I want to become <b>Blockchain Security Researcher</b>.
 In continuous learning working mainly with DeFi protocols and <b>security</b>.
 I'm here to <b>share my knowledge</b> of these technologies that I have learned during these years for those who wish to learn and create incredible things.
 
