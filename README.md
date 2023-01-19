@@ -6,7 +6,9 @@ I'm 🍍 . Yes, like fruit , I'm <b>Smart Contract Engineer</b> and I want to be
 In continuous learning working mainly with DeFi protocols and <b>security</b>.
 I'm here to <b>share my knowledge</b> of these technologies that I have learned during these years for those who wish to learn and create incredible things.
 
-- 🎯  What am I currently learning? <b>Contract vulnerabilities playing [ethernaut](https://ethernaut.openzeppelin.com/)</b> and learning all the terms associated with each level by exposing them in my ethernaut [repository](https://github.com/pinalikefruit/ethernaut.git) and on my website <a target="_blank" href="https://pinalikefruit.com"><img height="15" src="https://img.shields.io/badge/PinaLikeFruit-D73328?style=for-the-badge&logo=Dydx&logoColor=white" alt="Pina"></a>.
+- 🎯  What am I currently learning? <b>Contract vulnerabilities playing [ethernaut](https://ethernaut.openzeppelin.com/)</b> and learning all the terms associated with each level by exposing them in my ethernaut [repository](https://github.com/pinalikefruit/ethernaut.git) 
+
+<!-- and on my website <a target="_blank" href="https://pinalikefruit.com"><img height="15" src="https://img.shields.io/badge/PinaLikeFruit-D73328?style=for-the-badge&logo=Dydx&logoColor=white" alt="Pina"></a>. -->
 
 * 🔥 What am I currently looking now? I am looking for a job <b>opportunity</b> that allows me to contribute and contribute to your project.
 
@@ -59,7 +61,7 @@ Feel free to write to me if you need help, I'll try to help
  
 ## 👨‍💻 My Projects
 * <img height="30" src="https://bit.ly/3hjiYn9" alt="Ethernaut"> Ethernaut  Each level is a smart contract that needs to be 'hacked'. Here I show you my solution step-by-step [code](https://github.com/pinalikefruit/ethernaut.git) <b>(*developing*)</b>.
-* <img height="30" src="https://bit.ly/3FpeqDE" alt="Echidna"> Echidna .Building secure contracts: Learn how to fuzz like a pro with Trails of Bit [code](https://github.com/pinalikefruit/echidna.git)<b>(*developing*) </b>.
+<!-- * <img height="30" src="https://bit.ly/3FpeqDE" alt="Echidna"> Echidna .Building secure contracts: Learn how to fuzz like a pro with Trails of Bit [code](https://github.com/pinalikefruit/echidna.git)<b>(*developing*) </b>. -->
 * <img height="40" src="https://bit.ly/3x2GI3p" alt="logo dochain"> Dochain for [*Ethereum Developer program by Platzi 2022*](https://platzi.com/cursos/ethereum-dev-program/). You can found in this [link website](https://dochain.vercel.app/) and  [code](https://github.com/Dochain1).
 * <img height="30" src="https://bit.ly/35cqB8D" alt="logo avatar"> NFT-Collectible for *Chainlink Fall 2021 Hackathon*. You can found in this [link website](https://bafybeihlpe7kpnaifm7tn4jdrm6z2kzc44kl6kvm5axhwnyz5tormchdpq.ipfs.infura-ipfs.io/#/) and  [code](https://github.com/pinalikefruit/NFT-Collectible-Humans).
 *  <img height="30" src="https://bit.ly/3FO3dxJ" alt="UmbrellaDAO"> UmbrellaDAO  participation in *ETHBogota 2022 Hackathon* [code](https://github.com/pinalikefruit/UmbrellaDAO).
