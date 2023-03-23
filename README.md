@@ -65,7 +65,7 @@ Feel free to write to me if you need help, I'll try to help
 * <img height="40" src="https://bit.ly/3x2GI3p" alt="logo dochain"> Dochain for [*Ethereum Developer program by Platzi 2022*](https://platzi.com/cursos/ethereum-dev-program/). You can found in this [link website](https://dochain.vercel.app/) and  [code](https://github.com/Dochain1).
 * <img height="30" src="https://bit.ly/35cqB8D" alt="logo avatar"> NFT-Collectible for *Chainlink Fall 2021 Hackathon*. You can found in this [link website](https://bafybeihlpe7kpnaifm7tn4jdrm6z2kzc44kl6kvm5axhwnyz5tormchdpq.ipfs.infura-ipfs.io/#/) and  [code](https://github.com/pinalikefruit/NFT-Collectible-Humans).
 *  <img height="30" src="https://bit.ly/3FO3dxJ" alt="UmbrellaDAO"> UmbrellaDAO  participation in *ETHBogota 2022 Hackathon* [code](https://github.com/pinalikefruit/UmbrellaDAO).
-* <img height="30" src="https://bit.ly/3NKWSUS" alt="Logo Open Zeppelin"> Applying implementations of OpenZeppelin using Brownie [link repository](https://github.com/pinalikefruit/Openzeppelin-applied-brownie) and Hardhat [link repository](https://github.com/pinalikefruit/OpenZeppelin-Implementations)
+* <img height="30" src="https://bit.ly/409eH6V" alt="Logo Open Zeppelin"> Applying implementations of OpenZeppelin using Brownie [link repository](https://github.com/pinalikefruit/Openzeppelin-applied-brownie) and Hardhat [link repository](https://github.com/pinalikefruit/OpenZeppelin-Implementations)
 * 🌱 Challenge of dinamic NFT [code](https://github.com/pinalikefruit/platziretoDNFT).
 * <img height="30" src="https://bit.ly/36DXWKi" alt="Dydx"> Flashloan with DyDx protocol [code](https://github.com/pinalikefruit/flashloan_DyDx.git).
 * <img height="30" src="https://bit.ly/3uo1gkM" alt="logo Uniswap"> Swap using Ethers.js and Web3.js about Uniswap V1,V2 and V3 you can seee and repository secction.
@@ -74,7 +74,7 @@ Feel free to write to me if you need help, I'll try to help
 * <img height="30" src="https://bit.ly/3912yeR" alt="Lottery"> Lottery [code](https://github.com/pinalikefruit/Lottery).
 *  <img height="30" src="https://bit.ly/3us8nJ6" alt="Logo Aave"> Swap- Deposit- Borrow with Aave Protocol [link repository](https://github.com/pinalikefruit/aave_borrow_brownie)
 *  <img height="30" src="https://bit.ly/3FQvZhu" alt="Logo Ethers.js"> Interactive with ethers.js [link repository](https://github.com/pinalikefruit/ethers.js)
-*  <img height="30" src="https://bit.ly/3PPpdeE" alt="logo">Fund me project [link repository](https://github.com/pinalikefruit/FundMe)
+*  <img height="30" src="https://bit.ly/3FGsFEP" alt="logo">Fund me project [link repository](https://github.com/pinalikefruit/FundMe)
 *  <img height="30" src="https://bit.ly/3wFJFYd" alt="">Working with logs and Events [link repository](https://github.com/pinalikefruit/events-logs-hardhat)
 * <img height="30" src="https://bit.ly/3NolyTJ" alt="Pina coin"> PinaCoin deployment ERC-20 [link repository](https://github.com/pinalikefruit/PinaCoin)
 *  <img height="30" src="https://bit.ly/3JLxsF5" alt="crowdfundig">How to do crowdfunding [linkn repository](https://github.com/pinalikefruit/crowdfunding)
