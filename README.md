@@ -10,7 +10,7 @@ I'm here to <b>share my knowledge</b> of these technologies that I have learned 
 
 <!-- and on my website <a target="_blank" href="https://pinalikefruit.com"><img height="15" src="https://img.shields.io/badge/PinaLikeFruit-D73328?style=for-the-badge&logo=Dydx&logoColor=white" alt="Pina"></a>. -->
 
-* 🔥 What am I currently looking now? I am looking for a job <b>opportunity</b> that allows me to contribute and contribute to your project.
+* 🔥 What am I currently looking now? I am looking for a <b>job opportunity</b> that allows me to contribute and contribute to your project.
 
 
 Feel free to write to me if you need help, I'll try to help
@@ -22,6 +22,7 @@ Feel free to write to me if you need help, I'll try to help
  <p align="left">
  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Yul%20-%23007ACC.svg?&style=for-the-badge&logo=Yul&logoColor=Black"/>
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   </p>
@@ -35,6 +36,7 @@ Feel free to write to me if you need help, I'll try to help
  
  ### Frameworks
  <p align="left">
+ <img src="https://img.shields.io/badge/Foundry-%23363636.svg?style=for-the-badge&logo=Foundry&logoColor=white" alt="Foundry">
  <img src="https://img.shields.io/badge/Hardhat-fff04d?style=for-the-badge&logo=Hardhat&logoColor=white" alt="Hardhat">
  <img src="https://img.shields.io/badge/Brownie-f7f6d6?style=for-the-badge&logo=Brownie&logoColor=white" alt="Brownie">
  </p>
@@ -57,6 +59,7 @@ Feel free to write to me if you need help, I'll try to help
  <img src="https://img.shields.io/badge/AAVE-8674ac?style=for-the-badge&logo=AAVE&logoColor=white" alt="AAVE">
  <img src="https://img.shields.io/badge/Pancakeswap-d1884f?style=for-the-badge&logo=Pancakeswap&logoColor=48d9e4" alt="Pancakeswap">
  <img src="https://img.shields.io/badge/Dydx-000000?style=for-the-badge&logo=Dydx&logoColor=white" alt="Dydx">
+ <img src="https://img.shields.io/badge/Hedera-000000?style=for-the-badge&logo=Hedera&logoColor=white" alt="Hedera">
  </p>
  
 ## 👨‍💻 My Projects
