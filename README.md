@@ -6,11 +6,13 @@ I'm 🍍 . Yes, like fruit , I'm <b>Smart Contract Engineer</b> and I want to be
 In continuous learning working mainly with DeFi protocols and <b>security topics</b>.
 I'm here to <b>share my knowledge</b> of these technologies that I have learned during these years for those who wish to learn and create incredible things.
 
-- 🎯  What am I currently learning? I deep dive into EVM, Yul language, security pitfalls and best practice, audit techniques and tools and audit findings.
+- 🎯  What am I currently learning? I try to [**resolve Mr Steal Yo Crypto CTF**](https://mrstealyocrypto.xyz/index.html) and [**EVM puzzle CTF**](https://github.com/fvictorio/evm-puzzles) in this moment.
+
+- 👨‍💻 What am I working on? I'm [**Push Protocol**](https://push.org)<img height="20" src="https://bit.ly/4251JHY" alt="Push"> Ambassador for latin america and I'm a mentor for the [**Platzi**](https://platzi.com)<img height="20" src="https://bit.ly/423BAcs" alt="Platzi"> Ethereum Developer Program.
 
 <!-- and on my website <a target="_blank" href="https://pinalikefruit.com"><img height="15" src="https://img.shields.io/badge/PinaLikeFruit-D73328?style=for-the-badge&logo=Dydx&logoColor=white" alt="Pina"></a>. -->
 
-* 🔥 What am I currently looking now? I am looking for a <b>job opportunity</b> that allows me to contribute and contribute to your project.
+* 🔥 What am I currently looking now? I am looking for a <b>job opportunity</b> as smart contract developer.
 
 
 Feel free to write to me if you need help, I'll try to help
@@ -52,6 +54,7 @@ Feel free to write to me if you need help, I'll try to help
  ### Projects and protocols that I interact
  <p align="left">
  <img src="https://img.shields.io/badge/OpenZeppelin-65aef8?&style=for-the-badge&logo=OpenZeppelin&logoColor=white" alt="OpenZeppelin"/>
+ <img src="https://img.shields.io/badge/Push-e03dc1?style=for-the-badge&logo=Push&logoColor=white" alt="Push">
  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white" alt="Chainlink">
  <img src="https://img.shields.io/badge/SushiSwap-fe017b?style=for-the-badge&logo=SushiSwap&logoColor=white" alt="Sushiswap">
  <img src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="EVM">
@@ -65,13 +68,16 @@ Feel free to write to me if you need help, I'll try to help
 ## 👨‍💻 My Projects
 * <img height="30" src="https://bit.ly/3hjiYn9" alt="Ethernaut"> Ethernaut  Each level is a smart contract that needs to be 'hacked'. Here I show you my solution step-by-step [code](https://github.com/pinalikefruit/ethernaut.git)
 <!-- * <img height="30" src="https://bit.ly/3FpeqDE" alt="Echidna"> Echidna .Building secure contracts: Learn how to fuzz like a pro with Trails of Bit [code](https://github.com/pinalikefruit/echidna.git)<b>(*developing*) </b>. -->
-* <img height="40" src="https://bit.ly/3x2GI3p" alt="logo dochain"> Dochain for [*Ethereum Developer program by Platzi 2022*](https://platzi.com/cursos/ethereum-dev-program/). You can found in this [link website](https://dochain.vercel.app/) and  [code](https://github.com/Dochain1).
+* 🌋 Testing with Foundry.  [code](https://github.com/pinalikefruit/foundry-testing).
+* 🌳 Merkle Tree for Whitelist [code](https://github.com/pinalikefruit/merkle-tree-whitelists).
+* <img height="30" src="https://bit.ly/3x2GI3p" alt="logo dochain"> Dochain for [*Ethereum Developer program by Platzi 2022*](https://platzi.com/cursos/ethereum-dev-program/). You can found in this [link website](https://dochain.vercel.app/) and  [code](https://github.com/Dochain1).
 * <img height="30" src="https://bit.ly/35cqB8D" alt="logo avatar"> NFT-Collectible for *Chainlink Fall 2021 Hackathon*. You can found in this [link website](https://bafybeihlpe7kpnaifm7tn4jdrm6z2kzc44kl6kvm5axhwnyz5tormchdpq.ipfs.infura-ipfs.io/#/) and  [code](https://github.com/pinalikefruit/NFT-Collectible-Humans).
 *  <img height="30" src="https://bit.ly/3FO3dxJ" alt="UmbrellaDAO"> UmbrellaDAO  participation in *ETHBogota 2022 Hackathon* [code](https://github.com/pinalikefruit/UmbrellaDAO).
 * <img height="30" src="https://bit.ly/409eH6V" alt="Logo Open Zeppelin"> Applying implementations of OpenZeppelin using Brownie [link repository](https://github.com/pinalikefruit/Openzeppelin-applied-brownie) and Hardhat [link repository](https://github.com/pinalikefruit/OpenZeppelin-Implementations)
 * 🌱 Challenge of dinamic NFT [code](https://github.com/pinalikefruit/platziretoDNFT).
 * <img height="30" src="https://bit.ly/36DXWKi" alt="Dydx"> Flashloan with DyDx protocol [code](https://github.com/pinalikefruit/flashloan_DyDx.git).
 * <img height="30" src="https://bit.ly/3uo1gkM" alt="logo Uniswap"> Swap using Ethers.js and Web3.js about Uniswap V1,V2 and V3 you can seee and repository secction.
+* <img height="30" src="https://bit.ly/41Hf1uj" alt="logo Hedera"> Hedera. You can found here [code](https://github.com/pinalikefruit/hedera).
 * 🦥 Challenge Pokemon [challenge](https://github.com/pinalikefruit/solidity-eth-challenge/blob/main/Retos.md) and [solution](https://github.com/pinalikefruit/pokemon)
 *  <img height="30" src="https://bit.ly/36CRiEf" alt="royalties"> Get royalties in your NFT collection [code](https://github.com/pinalikefruit/NFT-withRoyalties).
 * <img height="30" src="https://bit.ly/3912yeR" alt="Lottery"> Lottery [code](https://github.com/pinalikefruit/Lottery).
