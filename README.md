@@ -6,7 +6,7 @@ I'm 🍍 . Yes, like fruit , I'm <b>Smart Contract Engineer</b> and I want to be
 In continuous learning working mainly with DeFi protocols and <b>security topics</b>.
 I'm here to <b>share my knowledge</b> of these technologies that I have learned during these years for those who wish to learn and create incredible things.
 
-- 🎯  What am I currently learning? I try to [**resolve Mr Steal Yo Crypto CTF**](https://mrstealyocrypto.xyz/index.html) and [**EVM puzzle CTF**](https://github.com/fvictorio/evm-puzzles) in this moment.
+- 🎯 What am I currently learning? I try to figure out [**Quill CTF**](https://www.quillaudits.com/academy/ctf) and dive into EVM how it works by building a [minimalist EVM](https://github.com/pinalikefruit/evm) right now.
 
 - 👨‍💻 What am I working on? I'm [**Push Protocol**](https://push.org)<img height="20" src="https://bit.ly/4251JHY" alt="Push"> Ambassador for latin america and I'm a mentor for the [**Platzi**](https://platzi.com)<img height="20" src="https://bit.ly/423BAcs" alt="Platzi"> Ethereum Developer Program.
 
@@ -64,9 +64,15 @@ Feel free to write to me if you need help, I'll try to help
  <img src="https://img.shields.io/badge/Dydx-000000?style=for-the-badge&logo=Dydx&logoColor=white" alt="Dydx">
  <img src="https://img.shields.io/badge/Hedera-000000?style=for-the-badge&logo=Hedera&logoColor=white" alt="Hedera">
  </p>
- 
+
+## CTF's
+* <img height="30" src="https://bit.ly/3hjiYn9" alt="Ethernaut"> [Ethernaut](https://ethernaut.openzeppelin.com)  Each level is a smart contract that needs to be 'hacked'. Here I show you my solution step-by-step [code](https://github.com/pinalikefruit/ethernaut.git)
+* 🧩 [EVM puzzle CTF](https://github.com/fvictorio/evm-puzzles)  Each level is a collection of EVM puzzles. Here I show you my solution step-by-step [code](https://github.com/fvictorio/evm-puzzles)
+* <img height="30" src="https://bit.ly/3WfDrJe" alt="QuillCTF"> [QuillCTF](https://bit.ly/439k4UN)  Each level is a smart contract that needs to be 'hacked'. Here I show you my solution step-by-step [code](https://github.com/pinalikefruit/quill-ctf)
+
+
 ## 👨‍💻 My Projects
-* <img height="30" src="https://bit.ly/3hjiYn9" alt="Ethernaut"> Ethernaut  Each level is a smart contract that needs to be 'hacked'. Here I show you my solution step-by-step [code](https://github.com/pinalikefruit/ethernaut.git)
+
 <!-- * <img height="30" src="https://bit.ly/3FpeqDE" alt="Echidna"> Echidna .Building secure contracts: Learn how to fuzz like a pro with Trails of Bit [code](https://github.com/pinalikefruit/echidna.git)<b>(*developing*) </b>. -->
 * 🌋 Testing with Foundry.  [code](https://github.com/pinalikefruit/foundry-testing).
 * 🌳 Merkle Tree for Whitelist [code](https://github.com/pinalikefruit/merkle-tree-whitelists).
