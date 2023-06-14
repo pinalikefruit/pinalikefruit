@@ -6,9 +6,9 @@ I'm 🍍 . Yes, like fruit , I'm <b>Smart Contract Engineer</b> and I want to be
 In continuous learning working mainly with DeFi protocols and <b>security topics</b>.
 I'm here to <b>share my knowledge</b> of these technologies that I have learned during these years for those who wish to learn and create incredible things.
 
-- 🎯 What am I currently learning? I try to figure out [**Quill CTF**](https://www.quillaudits.com/academy/ctf) and dive into EVM how it works by building a [minimalist EVM](https://github.com/pinalikefruit/evm) right now.
+- 🎯 What am I currently learning? delving into **Foundry**, creating a [repo](https://github.com/pinalikefruit/foundry-testing) that has all the tools for testing and participating in [ETH Global Hack FS](https://www.ethglobal.com/events/hackfs2023).
 
-- 👨‍💻 What am I working on? I'm [**Push Protocol**](https://push.org)<img height="20" src="https://bit.ly/4251JHY" alt="Push"> Ambassador for latin america and I'm a mentor for the [**Platzi**](https://platzi.com)<img height="20" src="https://bit.ly/423BAcs" alt="Platzi"> Ethereum Developer Program.
+- 👨‍💻 What am I working on? I'm [**Push Protocol**](https://push.org)<img height="20" src="https://bit.ly/4251JHY" alt="Push"> Ambassador for latin america and I'm a teacher for the course of Solidity by [**ETH Kipu**](https://ethkipu.org/)<img height="20" src="https://d1fdloi71mui9q.cloudfront.net/4IvyPKYdSb2CvxG8JeYL_b7frocVCeal42i1R" alt="ETH Kipu">.
 
 <!-- and on my website <a target="_blank" href="https://pinalikefruit.com"><img height="15" src="https://img.shields.io/badge/PinaLikeFruit-D73328?style=for-the-badge&logo=Dydx&logoColor=white" alt="Pina"></a>. -->
 
