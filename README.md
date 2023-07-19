@@ -6,13 +6,15 @@ I'm 🍍 . Yes, like fruit , I'm <b>Smart Contract Engineer</b> and I want to be
 In continuous learning working mainly with DeFi protocols and <b>security topics</b>.
 I'm here to <b>share my knowledge</b> of these technologies that I have learned during these years for those who wish to learn and create incredible things.
 
-- 🎯 What am I currently learning? delving into **Foundry**, creating a [repo](https://github.com/pinalikefruit/foundry-testing) that has all the tools for testing and participating in [ETH Global Hack FS](https://www.ethglobal.com/events/hackfs2023).
+ I'm [**Push Protocol**](https://push.org)<img height="20" src="https://bit.ly/4251JHY" alt="Push"> Ambassador for latin america and I'm a teacher for the course of Solidity by [**ETH Kipu**](https://ethkipu.org/)<img height="20" src="https://d1fdloi71mui9q.cloudfront.net/4IvyPKYdSb2CvxG8JeYL_b7frocVCeal42i1R" alt="ETH Kipu">.
+ 
+<!-- - 🎯 What am I currently learning? --> 
 
-- 👨‍💻 What am I working on? I'm [**Push Protocol**](https://push.org)<img height="20" src="https://bit.ly/4251JHY" alt="Push"> Ambassador for latin america and I'm a teacher for the course of Solidity by [**ETH Kipu**](https://ethkipu.org/)<img height="20" src="https://d1fdloi71mui9q.cloudfront.net/4IvyPKYdSb2CvxG8JeYL_b7frocVCeal42i1R" alt="ETH Kipu">.
+- 👨‍💻 What am I working on? Participating in [CodeHawks](https://www.codehawks.com) contests.👨‍💻
 
 <!-- and on my website <a target="_blank" href="https://pinalikefruit.com"><img height="15" src="https://img.shields.io/badge/PinaLikeFruit-D73328?style=for-the-badge&logo=Dydx&logoColor=white" alt="Pina"></a>. -->
 
-* 🔥 What am I currently looking now? I am looking for a <b>job opportunity</b> as smart contract developer.
+* 🔥 What am I currently looking now? I am looking for a <b>job opportunity</b> as Junior security research.
 
 
 Feel free to write to me if you need help, I'll try to help
@@ -74,6 +76,7 @@ Feel free to write to me if you need help, I'll try to help
 ## 👨‍💻 My Projects
 
 <!-- * <img height="30" src="https://bit.ly/3FpeqDE" alt="Echidna"> Echidna .Building secure contracts: Learn how to fuzz like a pro with Trails of Bit [code](https://github.com/pinalikefruit/echidna.git)<b>(*developing*) </b>. -->
+* [Join](https://github.com/Lets-Join)  participation in *Hack SF 2023 Hackathon ETH GLobal*
 * 🌋 Testing with Foundry.  [code](https://github.com/pinalikefruit/foundry-testing).
 * 🌳 Merkle Tree for Whitelist [code](https://github.com/pinalikefruit/merkle-tree-whitelists).
 * <img height="30" src="https://bit.ly/3x2GI3p" alt="logo dochain"> Dochain for [*Ethereum Developer program by Platzi 2022*](https://platzi.com/cursos/ethereum-dev-program/). You can found in this [link website](https://dochain.vercel.app/) and  [code](https://github.com/Dochain1).
