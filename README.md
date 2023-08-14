@@ -1,20 +1,18 @@
 
 <img  src="https://bit.ly/3ekNzv1" width="1145" height="30" >
 
-# Hi android🤖 👋 !!!
-I'm 🍍 . Yes, like fruit , I'm <b>Smart Contract Engineer</b> and I want to become <b>Blockchain Security Researcher</b>.
+# Hi 🤖 👋 !!!
+I'm 🍍 . Yes, like fruit , I'm <b>Jr. Blockchain Security Researcher </b>.
 In continuous learning working mainly with DeFi protocols and <b>security topics</b>.
 I'm here to <b>share my knowledge</b> of these technologies that I have learned during these years for those who wish to learn and create incredible things.
-
- I'm [**Push Protocol**](https://push.org)<img height="20" src="https://bit.ly/4251JHY" alt="Push"> Ambassador for latin america and I'm a teacher for the course of Solidity by [**ETH Kipu**](https://ethkipu.org/)<img height="20" src="https://d1fdloi71mui9q.cloudfront.net/4IvyPKYdSb2CvxG8JeYL_b7frocVCeal42i1R" alt="ETH Kipu">.
  
 <!-- - 🎯 What am I currently learning? --> 
 
-- 👨‍💻 What am I working on? Participating in [CodeHawks](https://www.codehawks.com) contests.👨‍💻
-
-<!-- and on my website <a target="_blank" href="https://pinalikefruit.com"><img height="15" src="https://img.shields.io/badge/PinaLikeFruit-D73328?style=for-the-badge&logo=Dydx&logoColor=white" alt="Pina"></a>. -->
-
-* 🔥 What am I currently looking now? I am looking for a <b>job opportunity</b> as Junior security research.
+👨‍💻 What am I working on? I am participating in some contests. At:
+* 🦅 [CodeHawks](https://www.codehawks.com)
+<!-- *   🐺 [Code4rena](https://code4rena.com)
+*  🕵️ [Sherlock](https://audits.sherlock.xyz/contests) -->
+* 🕷️ [Immunefi](https://immunefi.com)
 
 
 Feel free to write to me if you need help, I'll try to help
@@ -92,42 +90,16 @@ Feel free to write to me if you need help, I'll try to help
 * <img height="30" src="https://bit.ly/3912yeR" alt="Lottery"> Lottery [code](https://github.com/pinalikefruit/Lottery).
 *  <img height="30" src="https://bit.ly/3us8nJ6" alt="Logo Aave"> Swap- Deposit- Borrow with Aave Protocol [link repository](https://github.com/pinalikefruit/aave_borrow_brownie)
 *  <img height="30" src="https://bit.ly/3FQvZhu" alt="Logo Ethers.js"> Interactive with ethers.js [link repository](https://github.com/pinalikefruit/ethers.js)
-*  <img height="30" src="https://bit.ly/3FGsFEP" alt="logo">Fund me project [link repository](https://github.com/pinalikefruit/FundMe)
+<!-- *  <img height="30" src="https://bit.ly/3FGsFEP" alt="logo">Fund me project [link repository](https://github.com/pinalikefruit/FundMe)
 *  <img height="30" src="https://bit.ly/3wFJFYd" alt="">Working with logs and Events [link repository](https://github.com/pinalikefruit/events-logs-hardhat)
 * <img height="30" src="https://bit.ly/3NolyTJ" alt="Pina coin"> PinaCoin deployment ERC-20 [link repository](https://github.com/pinalikefruit/PinaCoin)
 *  <img height="30" src="https://bit.ly/3JLxsF5" alt="crowdfundig">How to do crowdfunding [linkn repository](https://github.com/pinalikefruit/crowdfunding)
-*  <img height="30" src="https://bit.ly/35e7dYV" alt="logo voto">Voting App [link repository](https://github.com/pinalikefruit/voting)
+*  <img height="30" src="https://bit.ly/35e7dYV" alt="logo voto">Voting App [link repository](https://github.com/pinalikefruit/voting) -->
 
-
- 
-### Others skill
-
- <p align="center">
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
- <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> 
- <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
- <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
- <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
- <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
- <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
- <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
- <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
- <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
- <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
- <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-</p>
- 
 
 ### 🔗 You can find me on 
-<a target="_blank" href="https://pinalikefruit.com"><img height="30" src="https://img.shields.io/badge/PinaLikeFruit-D73328?style=for-the-badge&logo=Dydx&logoColor=white" alt="Pina"></a> 
 <a target="_blank" href="https://www.linkedin.com/in/pinalikefruit/"><img height="30" src="https://bit.ly/3BkKWWE" alt="Linkedin icono"></a> 
 <a target="_blank" href="https://twitter.com/pinalikefruit"><img height="30" src="https://bit.ly/3wYOdZ6" alt="Twitter icono"></a> 
 <a target="_blank" href="https://t.me/pinalikefruit"><img height="30" src="https://bit.ly/3sBJKGV" alt="Telegram icono"></a> 
-<a target="_blank" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=pinajoma0@gmail.com"><img height="30" src="https://bit.ly/3guyIAU" alt="Correo icono">
-<a target="_blank" href="https://discord.com/channels/@pinalikefruit#4347"><img height="30" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
-</a> 
+
 >"Focus"
