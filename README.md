@@ -9,10 +9,10 @@ I'm here to <b>share my knowledge</b> of these technologies that I have learned 
 <!-- - 🎯 What am I currently learning? --> 
 
 👨‍💻 What am I working on? I am participating in some contests. At:
-* 🦅 [CodeHawks](https://www.codehawks.com) [3]
-<!-- *   🐺 [Code4rena](https://code4rena.com)
-*  🕵️ [Sherlock](https://audits.sherlock.xyz/contests) -->
-* 🕷️ [Immunefi](https://immunefi.com)
+* 🦅 [CodeHawks](https://www.codehawks.com) 
+*   🐺 [Code4rena](https://code4rena.com)
+*  🕵️ [Sherlock](https://audits.sherlock.xyz/contests) 
+<!--* 🕷️ [Immunefi](https://immunefi.com)-->
 
 
 Feel free to write to me if you need help, I'll try to help
