@@ -1,21 +1,21 @@
 
 <img  src="https://bit.ly/3ekNzv1" width="1145" height="30" >
 
-# Hi 🤖 👋 !!!
-I'm 🍍 . Yes, like fruit , I'm <b>Jr. Blockchain Security Researcher </b>.
-In continuous learning working mainly with DeFi protocols and <b>security topics</b>.
-I'm here to <b>share my knowledge</b> of these technologies that I have learned during these years for those who wish to learn and create incredible things.
- 
-<!-- - 🎯 What am I currently learning? --> 
+# 👋 Hey there! I'm Piña 🍍
 
-👨‍💻 What am I working on? I am participating in some contests. At:
-* 🦅 [CodeHawks](https://www.codehawks.com) 
-*   🐺 [Code4rena](https://code4rena.com)
-*  🕵️ [Sherlock](https://audits.sherlock.xyz/contests) 
-<!--* 🕷️ [Immunefi](https://immunefi.com)-->
+🔐 Blockchain Security Researcher | 💔 Love breaking things 
 
+📚 What I'm up to:
+- 🏆 Participating in exciting contests at:
+  - 🦅 [CodeHawks](https://www.codehawks.com)
+  - 🐺 [Code4rena](https://code4rena.com)
+  - 🕵️ [Sherlock](https://audits.sherlock.xyz/contests)
 
-Feel free to write to me if you need help, I'll try to help
+📈 My Portfolio:
+🔍 Explore my findings and projects in my [Portfolio](https://github.com/pinalikefruit/Portfolio).
+
+💬 Let's connect:
+📧 Feel free to reach out if you need assistance or just want to chat. I'm always here to help and share knowledge.
 
 ## ⛓ ₿lockchain Skill 
 
@@ -50,20 +50,6 @@ Feel free to write to me if you need help, I'll try to help
  <img src="https://img.shields.io/badge/Pytest-e6e7e7?style=for-the-badge&logo=python&logoColor=00a0e4" alt="Pytest">
  </p>
  
- 
- ### Projects and protocols that I interact
- <p align="left">
- <img src="https://img.shields.io/badge/OpenZeppelin-65aef8?&style=for-the-badge&logo=OpenZeppelin&logoColor=white" alt="OpenZeppelin"/>
- <img src="https://img.shields.io/badge/Push-e03dc1?style=for-the-badge&logo=Push&logoColor=white" alt="Push">
- <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white" alt="Chainlink">
- <img src="https://img.shields.io/badge/SushiSwap-fe017b?style=for-the-badge&logo=SushiSwap&logoColor=white" alt="Sushiswap">
- <img src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="EVM">
- <img src="https://img.shields.io/badge/Uniswap-fe017b?style=for-the-badge&logo=Uniswap&logoColor=white" alt="Uniswap">
- <img src="https://img.shields.io/badge/AAVE-8674ac?style=for-the-badge&logo=AAVE&logoColor=white" alt="AAVE">
- <img src="https://img.shields.io/badge/Pancakeswap-d1884f?style=for-the-badge&logo=Pancakeswap&logoColor=48d9e4" alt="Pancakeswap">
- <img src="https://img.shields.io/badge/Dydx-000000?style=for-the-badge&logo=Dydx&logoColor=white" alt="Dydx">
- <img src="https://img.shields.io/badge/Hedera-000000?style=for-the-badge&logo=Hedera&logoColor=white" alt="Hedera">
- </p>
 
 ## CTF's
 * <img height="30" src="https://bit.ly/3hjiYn9" alt="Ethernaut"> [Ethernaut](https://ethernaut.openzeppelin.com)  Each level is a smart contract that needs to be 'hacked'. Here I show you my solution step-by-step [code](https://github.com/pinalikefruit/ethernaut.git)
